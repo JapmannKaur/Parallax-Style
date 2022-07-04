@@ -1,0 +1,105 @@
+body,html{
+    margin:0;
+    height: 210%;
+}
+#text{
+    background-color: black;
+    background-image: url('bg.jpg');
+    color:rgb(223, 219, 6);
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 40px;
+    height: 3%;
+    padding: 5%;
+}
+.image{
+    height: 35%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.im1{
+    background-image: url('pom.jpg');
+}
+.t1{
+    font-size:20px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    border: 8px solid white;
+    background-color: burlywood;
+    padding: 8px;
+    opacity: 0.8;
+    top:85%;
+    left: 52%;
+    right: 5%;
+    border-radius: 30px;
+}
+.im2{
+    background-image: url('gol.jpg');
+}
+.t2{
+    font-size:20px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    border: 8px solid white;
+    background-color:rgb(157, 207, 209);
+    padding: 8px;
+    opacity: 0.8;
+    top:225%;
+    left: 66%;
+    right: 3%;
+}
+.im3{
+    background-image: url('pug.jpg');
+}
+.t3{
+    font-size:20px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    border: 8px solid black;
+    background-color: burlywood;
+    padding: 8px;
+    opacity: 0.8;
+    top:393%;
+    left: 5%;
+    right: 60%;
+    border-radius: 30px;
+}
+.im4{
+    background-image: url('husky.jpg');
+}
+.t4{
+    font-size:20px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    border: 8px solid white;
+    background-color: rgb(152, 182, 228);
+    padding: 8px;
+    opacity: 0.8;
+    top:540%;
+    left: 5%;
+    right: 65%;
+}
+.im5{
+    background-image: url('dal.jpg');
+}
+.t5{
+    font-size:20px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    border: 8px solid black;
+    background-color: whitesmoke;
+    padding: 8px;
+    opacity: 0.8;
+    top:696%;
+    left: 65%;
+    right: 3%;
+    border-radius: 30px;
+}
